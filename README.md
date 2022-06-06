@@ -12,3 +12,5 @@ https://fkobe3.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Frank Kobe
+
+### ©️2019 Run Buddy, Inc
